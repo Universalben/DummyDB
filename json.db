@@ -1,0 +1,9 @@
+{
+  "question": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "answer": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "video": { "name": "typicode" }
+}
